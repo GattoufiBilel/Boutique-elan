@@ -187,6 +187,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
  img {
  	border-style: none;
+	
  }
 
 /* Forms
@@ -950,6 +951,7 @@ object {
 /* Make sure logo link wraps around logo image. */
 .custom-logo-link {
 	display: inline-block;
+
 }
 
 /*--------------------------------------------------------------
@@ -969,6 +971,7 @@ object {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 
 .wp-caption .wp-caption-text, 

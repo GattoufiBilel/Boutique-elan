@@ -8,6 +8,8 @@
  */
 
 //define theme version
+
+
 $vilva_theme_data = wp_get_theme();
 if( ! defined( 'VILVA_THEME_VERSION' ) ) define( 'VILVA_THEME_VERSION', $vilva_theme_data->get( 'Version' ) );
 if( ! defined( 'VILVA_THEME_NAME' ) ) define( 'VILVA_THEME_NAME', $vilva_theme_data->get( 'Name' ) );
