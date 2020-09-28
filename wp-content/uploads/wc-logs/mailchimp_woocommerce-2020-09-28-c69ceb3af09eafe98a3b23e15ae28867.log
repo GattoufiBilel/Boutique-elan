@@ -1,0 +1,1 @@
+2020-09-28T11:00:57+00:00 ERROR admin@validatePostApiKey :: 500 :: CURL error :: SSL certificate problem: self signed certificate in certificate chain on 1823 in C:\wamp64\www\wordpress-5.3.2\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
